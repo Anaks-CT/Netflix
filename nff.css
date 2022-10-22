@@ -22,6 +22,13 @@ h1{
     width: 100%;
     background-size: 100% ;
 }
+.color-gradient{
+    height: 734px;
+    width: 100%;
+    background: rgba(0,0,0,.4);
+    background-image: linear-gradient(0deg,rgba(0,0,0,.8) 0,transparent 60%,rgba(0,0,0,.8));
+
+}
 .header{
     height: 200px;
     width: 1481px;
@@ -202,7 +209,7 @@ h1{
     border: 10px;
     margin-top: 10px;
     display: flex;
-    
+    padding-top: 150px;
     justify-content: center;
     
 
@@ -228,4 +235,11 @@ h1{
     width: 800px;
     height: 130px;
 }
-
+.no{
+    padding-bottom: 100px;
+    font-size: 15px;
+    color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    text-align: left;
+}
