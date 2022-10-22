@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
+.container{
+    width: 500px;
+    height: 1000px;
+    background-color: aqua;
+    display: flex;
+   
+
+}
+.section-1{
+    height: 734px;
+    width: 1481px;
+    
+}
+.image{
+   max-width: fit-content;
+}
